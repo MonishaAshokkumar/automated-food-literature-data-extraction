@@ -3,7 +3,7 @@
 Code and datasets for the MSc dissertation:
 **"Automated Extraction of Quantitative Data from Food Science Literature for Data-Driven Modelling"**
 
-Monisha Ashokkumar — MSc Data Science & Analytics, University College Cork, 2025
+Monisha Ashokkumar — MSc Data Science & Analytics, University College Cork, 2026
 
 ---
 
